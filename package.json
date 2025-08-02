@@ -1,0 +1,25 @@
+{
+  "name": "hashmap",
+  "version": "1.0.0",
+  "description": "Hashmap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PearMeow/hashmap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PearMeow/hashmap/issues"
+  },
+  "homepage": "https://github.com/PearMeow/hashmap#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.32.0",
+    "eslint_d": "^14.3.0",
+    "prettier": "^3.6.2"
+  }
+}

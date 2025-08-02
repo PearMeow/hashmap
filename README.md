@@ -1,19 +1,24 @@
-<h1 align="center">Template</h1>
-Template for projects
+<h1 align="center">Hashmap</h1>
+Hashmap in JS
 
 Features
 --------
-- Some feature
-- A feature, and maybe more to come
-
+- [ ] Hashmap class
+- [ ] Hash function
+- [ ] Set value of key
+- [ ] Get value of key
+- [ ] Remove key
+- [ ] Length aka number of stored keys
+- [ ] Clear to clear all keys
+- [ ] Values to return all values in table
+- [ ] Entries to return all pairs in table
+- [ ] Resolve collisions with chaining
+- [ ] Load factor, capacity, and resizing
 
 How to use this project
 -----------------------
-Visit the live version <a href="" rel="noopener noreferrer">here</a>! Or clone the repo and run `npm run build` in the project's root directory, then visit dist/index.html on your favorite browser. (or if the project is just static, open index.html on your favorite browser!)
+Clone the repo and run `node main.js`.
 
 Credits
 -------
-<a href="" rel="noopener noreferrer">Something by some person</a>
-<br>
-<a href="" rel="noopener noreferrer">Another thing by another person</a>
-<br>
+All me, of course.
