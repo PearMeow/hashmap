@@ -3,17 +3,17 @@ Hashmap in JS
 
 Features
 --------
-- [ ] Hashmap class
-- [ ] Hash function
-- [ ] Set value of key
-- [ ] Get value of key
-- [ ] Remove key
-- [ ] Length aka number of stored keys
-- [ ] Clear to clear all keys
-- [ ] Values to return all values in table
-- [ ] Entries to return all pairs in table
-- [ ] Resolve collisions with chaining
-- [ ] Load factor, capacity, and resizing
+- [x] Hashmap class
+- [x] Hash function
+- [x] Set value of key
+- [x] Get value of key
+- [x] Remove key
+- [x] Length aka number of stored keys
+- [x] Clear to clear all keys
+- [x] Values to return all values in table
+- [x] Entries to return all pairs in table
+- [x] Resolve collisions with chaining
+- [x] Load factor, capacity, and resizing
 
 How to use this project
 -----------------------
